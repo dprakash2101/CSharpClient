@@ -90,7 +90,10 @@ namespace Example
             try
             {
                 List<Contact> result = apiInstance.ContactGet();
-                Debug.WriteLine(result);
+                for(int i=0; i<result.Count; i++)
+                {
+                    Console.WriteLine(result[i]);
+                }
             }
             catch (ApiException e)
             {
