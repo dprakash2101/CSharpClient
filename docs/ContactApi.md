@@ -1,4 +1,4 @@
-# Org.OpenAPITools.Api.ContactApi
+# KCrud.Api.ContactApi
 
 All URIs are relative to *https://localhost:7207*
 
@@ -20,9 +20,9 @@ All URIs are relative to *https://localhost:7207*
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Org.OpenAPITools.Api;
-using Org.OpenAPITools.Client;
-using Org.OpenAPITools.Model;
+using KCrud.Api;
+using KCrud.Client;
+using KCrud.Model;
 
 namespace Example
 {
@@ -102,9 +102,9 @@ No authorization required
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Org.OpenAPITools.Api;
-using Org.OpenAPITools.Client;
-using Org.OpenAPITools.Model;
+using KCrud.Api;
+using KCrud.Client;
+using KCrud.Model;
 
 namespace Example
 {
@@ -189,9 +189,9 @@ No authorization required
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Org.OpenAPITools.Api;
-using Org.OpenAPITools.Client;
-using Org.OpenAPITools.Model;
+using KCrud.Api;
+using KCrud.Client;
+using KCrud.Model;
 
 namespace Example
 {
@@ -276,9 +276,9 @@ No authorization required
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Org.OpenAPITools.Api;
-using Org.OpenAPITools.Client;
-using Org.OpenAPITools.Model;
+using KCrud.Api;
+using KCrud.Client;
+using KCrud.Model;
 
 namespace Example
 {
@@ -365,9 +365,9 @@ No authorization required
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Org.OpenAPITools.Api;
-using Org.OpenAPITools.Client;
-using Org.OpenAPITools.Model;
+using KCrud.Api;
+using KCrud.Client;
+using KCrud.Model;
 
 namespace Example
 {
