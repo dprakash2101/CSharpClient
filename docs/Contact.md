@@ -1,4 +1,4 @@
-# Org.OpenAPITools.Model.Contact
+# KCrud.Model.Contact
 
 ## Properties
 
